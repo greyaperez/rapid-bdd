@@ -24,7 +24,7 @@ In it's most rudimentary form, Rapid BDD is a dynamic step/page object framework
 - $(…)                         // Direct JQuery Select Passthrough
 
 #### Given Steps
-- Given('I am on the page, "$page"')
+- Given('I am on the page "$page"')
 
 #### Util Steps (Whens, aka Key Actions)
 - When('I click all "$target" in the "$parent"')
